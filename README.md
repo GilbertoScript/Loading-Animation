@@ -2,6 +2,6 @@
 
 Animação de loading, utilizando HTML e CSS
 
-Para acessar entre no seguinte link:
+Para visualizar acesse o seguinte link:
 
-https://gilbertoasjunior.github.io/
+https://loading-animation-gsj.netlify.com/
