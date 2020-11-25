@@ -1,7 +1,7 @@
-# Animação Loading
+# Loading Animation
 
-Animação de loading, utilizando HTML e CSS
+Loading animation using HTML5 and CSS3
 
-Para visualizar acesse o seguinte link:
+to view access:
 
 https://loading-animation-gsj.netlify.com/
